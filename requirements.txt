@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+openpyxl
+datasets
+transformers
+trl
+peft
+bitsandbytes
+accelerate
