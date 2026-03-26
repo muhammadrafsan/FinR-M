@@ -6,5 +6,6 @@
 
 Our approach introduces a **bidirectional reasoning supervision** mechanism that leverages both *positive* and *negative rationales* to enhance financial decision-making across multiple languages. The method significantly improves interpretability, robustness, and cross-lingual generalization in financial NLP tasks.
 
-
+🔗 **Paper**: https://aclanthology.org/2025.emnlp-industry.111/  
+🔗 **Code**: https://github.com/muhammadrafsan/FinR-M
 
