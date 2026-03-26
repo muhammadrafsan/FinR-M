@@ -8,12 +8,12 @@ This work introduces a **bidirectional reasoning supervision** mechanism that le
 
 
 ## Methodology
-<h4 align="center"><img width="850" height="480" alt="image" src="https://github.com/user-attachments/assets/cdbe43eb-9dd8-4cf2-a7bd-60d8d5db7ece" /></h4>
+<img width="850" height="480" alt="image" src="https://github.com/user-attachments/assets/cdbe43eb-9dd8-4cf2-a7bd-60d8d5db7ece" />
 
 **Figure:** Overview of three fine-tuning approaches: **(a)** Fine-tuning using Label, **(b)** Fine-tuning using Label + Unidirectional Reason, and **(c)** Fine-tuning using Label + Bidirectional Reason (Ours). The novel third approach enhances classification performance by supervising the model’s output with the classification label (Y), positive reason (R+), and negative reason (R−), providing a more comprehensive and context-aware training framework.
 
 ## Experimental Results
-<h4 align="center"><img width="761" height="682" alt="image" src="https://github.com/user-attachments/assets/b54d9d92-85b7-4500-8783-3d820f35a956" /></h4>
+<img width="761" height="682" alt="image" src="https://github.com/user-attachments/assets/b54d9d92-85b7-4500-8783-3d820f35a956" />
 
 ## Citation
 
